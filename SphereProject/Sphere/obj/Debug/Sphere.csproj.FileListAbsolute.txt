@@ -1,0 +1,5 @@
+/Users/divyamanirajan/Projects/Sphere/Sphere/obj/Debug/Sphere.csprojAssemblyReference.cache
+/Users/divyamanirajan/Projects/Sphere/Sphere/bin/Debug/Sphere.exe
+/Users/divyamanirajan/Projects/Sphere/Sphere/bin/Debug/Sphere.pdb
+/Users/divyamanirajan/Projects/Sphere/Sphere/obj/Debug/Sphere.exe
+/Users/divyamanirajan/Projects/Sphere/Sphere/obj/Debug/Sphere.pdb
